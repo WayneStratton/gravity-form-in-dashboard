@@ -9,3 +9,5 @@ Add any Gravity Form to your WordPress dashboard.
 4. Create a gravity form with a form ID of 2. (Or change the value in dashboard-form.php to match your form ID.)
 
 https://cl.ly/2V1c2b2l2W41
+
+Feel free to modify and use however you would like. This plugin is not supported. :)
