@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Stratton Support
- * Description: Shows a support form in the WordPress dashboard.
+ * Description: Shows a support form powered by Gravity Froms in the WordPress dashboard.
  * Author: Wayne Stratton
  * Author URL: https://waynestratton.org
  * License: GNU GPLv2+
